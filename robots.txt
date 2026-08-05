@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4tbxj9.conviq.ru/sitemap.xml
